@@ -2,7 +2,7 @@ public class ArrayOnEvenPosition  {
     public static void main(String[] args) {
 
         //Initialize array
-        int [] arr = new int [] {1, 2, 3, 4, 5};
+        int [] arr = new int [] {1, 2, 3, 4, 5,6};
 
         System.out.println("Elements of given array present on even position: ");
         //Loop through the array by incrementing value of i by 2
